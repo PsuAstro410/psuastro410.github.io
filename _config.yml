@@ -1,2 +1,5 @@
 title: Astro 410
 theme: minima
+
+header_pages:
+  - syllabus.md
