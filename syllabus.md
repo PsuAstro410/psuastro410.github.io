@@ -26,6 +26,11 @@ Computational methods underpin all research methods in astronomy and astrophysic
 
 ## Learning Objectives
 
+- Write programs that are understandable and usable by collegues
+- Gain insight into numerical algorithms, so that their uses and limitations are apparent
+- Communicate results of numerical calculations through clear plots and programs
+- Apply High Performance Computing resources at Penn State to real research problems
+
 ## Grading
 ...
 
