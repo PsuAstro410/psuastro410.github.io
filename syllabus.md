@@ -48,6 +48,7 @@ All students are **required** to bring laptops every day to class. Lectures will
 
 Homework assignments will be distributed and submitted via GitHub, with assignments posted at least one week prior to its due date. Collaboration between peers is encouraged. Although use of Generative AI is not forbidden (Claude, ChatGBT, Gemini, etc.), any use must be stated upon submission of the homework assinment with an attached pdf of the chat, along with a statement of elements used in the homework assignment. Ethical AI use will be covered early. Because homework problems are designed to be pedagogical, directly copying and pasting homework questions into AI prompts is expressly forbidden.
 
+On submission days for homework assignments, students will be given in-class pencil and paper quizzes, where students answer coding questions, and write test pseudo code. Example quizzes with pseudo code will be given in class.
 
 ## Grading
 ...
