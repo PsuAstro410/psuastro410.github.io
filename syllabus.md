@@ -31,6 +31,10 @@ Computational methods underpin all research methods in astronomy and astrophysic
 - Communicate results of numerical calculations through clear plots and programs
 - Apply High Performance Computing resources at Penn State to real research problems
 
+## Structure
+
+**Lecture:** 
+
 ## Grading
 ...
 
