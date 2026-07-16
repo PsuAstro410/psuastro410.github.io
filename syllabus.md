@@ -46,9 +46,13 @@ This list is subject to change, any changes will be announced via Canvas.
 
 All students are **required** to bring laptops every day to class. Lectures will include in-class Jupyter Notebooks distributed through GitHub to be downloaded before class, to be completed and submitted at the end of class on GitHub. Notebooks will include all discussed lecture materials, to serve as a working code reference for homework assignments and exams. Any in-class exercises not completed by the end of class can be submitted before the next class for the student to recieve full credit on the assignment.
 
-Homework assignments will be distributed and submitted via GitHub, with assignments posted at least one week prior to its due date. Collaboration between peers is encouraged. Although use of Generative AI is not forbidden (Claude, ChatGBT, Gemini, etc.), any use must be stated upon submission of the homework assinment with an attached pdf of the chat, along with a statement of elements used in the homework assignment. Ethical AI use will be covered early. Because homework problems are designed to be pedagogical, directly copying and pasting homework questions into AI prompts is expressly forbidden.
+Homework assignments will be distributed and submitted via GitHub, with assignments posted at least one week prior to its due date. Collaboration between peers is encouraged. Although use of Generative AI is not forbidden (Claude, ChatGBT, Gemini, etc.), any use must be stated upon submission of the homework assinment with an attached pdf of the chat, along with a statement of elements used in the homework assignment. Ethical AI use will be covered early. Because homework problems are designed to be pedagogical, directly copying and pasting homework questions into AI prompts is forbidden.
 
 On submission days for homework assignments, students will be given in-class pencil and paper quizzes, where students answer coding questions, and write test pseudo code. Example quizzes with pseudo code will be given in class.
+
+Exams will be completed in-class. Students will be able to access Jupyter on the Roar Interactive Server or their personal laptops, edit python scripts with their text editors of choice, and access a single student-prepared text (.txt) study guide document. Use of any other resources (internet, AI) is forbidden, students caught taking advantage of such resources are subject to recieving no credit for submitted exams.
+
+Students will also submit a final project at the end of the semester. **Details TBD**
 
 ## Grading
 ...
