@@ -40,7 +40,11 @@ Topics discussed in this course include
 - **Ordinary Differential Equations:** Euler and Runge-Kutta method
 - **Partial Differential Equations:** Equation differencing schemes, numerical stability
 - **Machine Learning:** If time allows, classification, regression, clustering
+This list is subject to change, any changes will be announced via Canvas.
 
+## Class structure
+
+All students are *required* to bring laptops every day to class. Lectures will include in-class Jupyter Notebooks distributed through GitHub to be downloaded before class, to be completed and submitted at the end of class on GitHub. Notebooks will include all discussed lecture materials, to serve as a working code reference for homework assignments and exams. Any in-class exercises not completed by the end of class can be submitted before the next class for the student to recieve full credit on the assignment.
 
 ## Grading
 ...
