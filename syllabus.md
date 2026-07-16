@@ -64,7 +64,7 @@ Students will also submit a final project at the end of the semester. **Details 
 - 20% Final Exam
 - 20% Student Project
 
-A total of 8 homeworks, 8 quizzes, 10 in-class exercises, and 3 exams + 1 final exam, will be given. The lowest 1 homework assignment, 1 quiz, 3 in-class exercises, and 1 exam will be dropped from the course grade, meant to cover absences and emergencies, as well as a general reprieve for whatever bad vibes might have caused a low score for an assignment.
+A total of 8 homeworks, 8 quizzes, 10 in-class exercises, and 3 exams + 1 final exam, will be given. The lowest 1 homework assignment, 1 quiz, 3 in-class exercises, and 1 exam will be dropped from the course grade, meant to cover absences and emergencies, and act as general reprieve for whatever bad vibes might have caused a low score for an assignment.
 
 ## Schedule
 ...
