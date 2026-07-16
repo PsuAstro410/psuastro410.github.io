@@ -40,7 +40,8 @@ Topics discussed in this course include
 - **Ordinary Differential Equations:** Euler and Runge-Kutta method
 - **Partial Differential Equations:** Equation differencing schemes, numerical stability
 - **Machine Learning:** If time allows, classification, regression, clustering
-This list is subject to change, any changes will be announced via Canvas.
+
+This list is subject to change, announced with Canvas.
 
 ## Class structure
 
@@ -59,12 +60,11 @@ Students will also submit a final project at the end of the semester. **Details 
 - 10% Homework
 - 10% Quizzes
 - 10% In-Class Exercises
-- 15% Exam 1
-- 15% Exam 2
+- 20% Midterm Exam
 - 20% Final Exam
-- 20% Student Project
+- 30% Student Project
 
-A total of 8 homeworks, 8 quizzes, 10 in-class exercises, and 3 exams + 1 final exam, will be given. The lowest 1 homework assignment, 1 quiz, 3 in-class exercises, and 1 exam will be dropped from the course grade, meant to cover absences and emergencies, and act as general reprieve for whatever bad vibes might have caused a low score for an assignment.
+The lowest scores on 1 homework assignment, 2 quizes, and 4 in-class exercises will be dropped from the course grade.
 
 ## Schedule
 ...
