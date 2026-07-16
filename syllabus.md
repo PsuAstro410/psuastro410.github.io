@@ -31,9 +31,16 @@ Computational methods underpin all research methods in astronomy and astrophysic
 - Communicate results of numerical calculations through clear plots and programs
 - Apply High Performance Computing resources at Penn State to real research problems
 
-## Structure
+## Topics Covered
 
-**Lecture:** 
+Topics discussed in this course include
+- **Programming with Python:** Jupyter, GitHub, data types, operators, computing with numpy, functions and classes, control statements, parallelization
+- **Computing Fundamentals:** Floating point and truncation errors, differentiation, integration, root finding
+- **Linear Algebra:** Solving systems of equations, matrix solvers, eigenvalue methods
+- **Ordinary Differential Equations:** Euler and Runge-Kutta method
+- **Partial Differential Equations:** Equation differencing schemes, numerical stability
+- **Machine Learning:** If time allows, classification, regression, clustering
+
 
 ## Grading
 ...
