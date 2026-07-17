@@ -59,10 +59,10 @@ Students will also submit a final project at the end of the semester. **Details 
 
 - 10% Homework
 - 10% Quizzes
-- 10% In-Class Exercises
-- 20% Midterm Exam
+- 20% In-Class Exercises
+- 15% Midterm Exam
 - 20% Final Exam
-- 30% Student Project
+- 25% Student Project
 
 The lowest scores on 1 homework assignment, 2 quizes, and 4 in-class exercises will be dropped from the course grade.
 
