@@ -76,7 +76,7 @@ The formal prerequisites for this course are
 -  CMPSC 201 or CMPSC 121 or CMPSC 131 or CMPSC 204
 -  PHYS 212 and PHYS 213 and PHYS 214
 
-Any student who has not taken one of these courses should contact the instructor prior to submitting an enrollment override via LionPath, to discuss their background in regards to their preparation for this course.
+Any student who has not taken one of these courses should contact the instructor prior to submitting an enrollment override via LionPath, to discuss their background in regards to course preparation.
 
 ## Course Materials
 
@@ -86,3 +86,10 @@ Although there are no required textbooks, this course will ask students to read 
 - [Python Computing and Numerical Methods](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html) (Qingkai Kong, Timmy Siauw, Alexandre Bayen, UC Berkeley)
 
 Other reading materials, and useful resources, include
+
+- [Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Numerical Reciepies in Python](https://zenodo.org/records/8371794) (Amjad Ali, Muhammad Ali Ismail, Tayyaba Saeed, Hamayun Farooq, Uzair Abid)
+- [Numpy Documentation](https://numpy.org/doc/stable/user/whatisnumpy.html)
+- [Numerical Methods for Physics Scripts](https://github.com/AlejGarcia/NM4P/tree/master/Python) (Alejandro Garcia, San Jose State University)
+- [Numerical Methods for Physics with Python](https://numphyspy.org/) (Alex Gezerlis, University of Guelph)
+- [Python Cheatsheet](https://cheatsheets.quantecon.org/) (QuantEcon)
