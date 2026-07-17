@@ -93,3 +93,15 @@ Other reading materials, and useful resources, include
 - [Numerical Methods for Physics Scripts](https://github.com/AlejGarcia/NM4P/tree/master/Python) (Alejandro Garcia, San Jose State University)
 - [Numerical Methods for Physics with Python](https://numphyspy.org/) (Alex Gezerlis, University of Guelph)
 - [Python Cheatsheet](https://cheatsheets.quantecon.org/) (QuantEcon)
+
+Course materials may be added or removed to the syllabus and/or Canvas webpage throughout the semester
+
+## Lectures and In-Class Exercises
+
+Jupyter Notebooks with lecture materials and in-class exercises will be distributed before lecture via GitHub, so that students can interactively follow along during lecture, and test their understanding of computing concepts through exercises. Students are encouraged to follow along with the lecture materials, and complete the in-class exercises before the end of class. In-class exercises can be completed with the help of peers in groups, the instructor or TA, online materials, and ethical AI use. 
+
+Any un-completed exercises should be completed and submitted before the next class for full credit. All exercises are submitted by pushing to GitHub. Late exercises recieve a 10% grade deduction for every day past the deadline that they are late (if due Tuesday, recieve 90% credit for Wednesday submission, 80% for Thursday, 70% for Friday, ...). 
+
+## Homework Assignments
+
+Homework assignments will typically be due Tuesdays on a weekly basis 
