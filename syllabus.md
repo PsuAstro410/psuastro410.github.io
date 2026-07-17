@@ -76,3 +76,12 @@ The formal prerequisites for this course are
 -  CMPSC 201 or CMPSC 121 or CMPSC 131 or CMPSC 204
 -  PHYS 212 and PHYS 213 and PHYS 214
 Any student who has not taken one of these courses should contact the instructor prior to submitting an enrollment override via LionPath, to discuss their background in regards to their preparation for this course.
+
+## Course Materials
+
+Although there are no required textbooks, this course will ask students to read and work through online materials available for free. We will use most heavily
+
+- [Computational Astrophysics Course Notes](https://zingale.github.io/computational_astrophysics/intro.html) (Michael Zingale, Stony Brook University)
+- [Python Computing and Numerical Methods](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html) (Qingkai Kong, Timmy Siauw, Alexandre Bayen, UC Berkeley)
+
+Other reading materials, and useful resources, include
