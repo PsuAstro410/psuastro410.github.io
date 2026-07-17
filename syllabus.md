@@ -33,7 +33,8 @@ Computational methods underpin almost all research methods in astronomy and astr
 
 ## Topics Covered
 
-Topics discussed in this course may include
+Topics discussed in this course may include, in chronological order
+
 - **Programming with Python:** data types, operators, errors and debugging, Numpy, functions and classes, loops, parallelization
 - **Computing Fundamentals:** Floating point and truncation errors, differentiation, integration, root finding
 - **Linear Algebra:** Matrix operations, solving systems of equations, matrix solvers, eigenvalue methods
