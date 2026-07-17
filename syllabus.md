@@ -110,7 +110,7 @@ Homework assignments will be typically completed on a weekly basis pre-midterm, 
 
 Homeworks will typically be due Tuesdays, submitted by pushing onto GitHub. Homeworks will be directly followed by short, in-class quizzes on the same material (see next section). Late submissions will recieve score reductions of 10% for every day late. The lowest homework score will be dropped from the class grade.
 
-## In-Class Quizzes
+## Quizzes
 
 To act as an additional check-in on student understanding on course material, in-class quizzes will be given on subject matter directly related to homework questions. All quizzes will be done during the first 10 minutes of class with pencil and paper, the same day as homework submissions, typically writing pseudo-code. The lowest two quiz scores will be dropped from the course grade, meant to cover missed days and general bad vibes.
 
@@ -121,3 +121,28 @@ One summative assessment for the course material will be two in-person exams com
 Make-up exams can be scheduled only in one of two special circumstances:
 1. If you know in advance that you will have to miss a midterm exam for a religious observance or university sponsored trip (e.g., athletics, research field work, class field trip), then you must request a makeup midterm in advance of the exam and as early in the semester as possible, to facilitate scheduling.
 2. If you are injured or ill or in isolation or quarantine during the midterm exam, you should request a makeup exam as soon as practical. If any of the above cases, documentation may be requested. Please email the instructor as soon as you are able to request scheduling a makeup exam. The timing and format of a makeup midterm exam will depend on the circumstances and be at the instructor's discretion. For a religious holiday, the instructor would likely recommend taking the same exam early.
+
+## Student Projects
+
+Another summative assessment, to allow students to demonstrate their ability to apply course concepts to an astrophysical application of their choice, will be course projects. **Details TBD**
+
+## Safety
+
+While attendance and participation in class is important to the class and your learning, it is more important that we all stay safe and healthy. All students must follow all health and safety protocols required or recommended by the university. University policies and recommendations may change during the semester. The most up-to-date information can be accessed at https://virusinfo.psu.edu/university-status/.
+
+As of August 2026, the university policy is:
+
+Stay home and away from others if you are experiencing fever or respiratory symptoms such as but not limited to cough, sore throat, runny nose, chills, fatigue, headache, body aches. Return to normal activities when, for at least 24 hours, both are true:
+- Your symptoms are getting better overall, AND
+- You have not had a fever (and are not using fever-reducing medication)
+
+Then, take these additional precautions for the next five days to limit the spread of infection:
+- Wear a well-fitting mask
+- Keep a distance from others and/or
+- Get tested to inform your actions to prevent the spread to others
+
+If you begin feeling worse and/or fever returns, stay home and away from others for at least 24 hours until both are true:
+- Your symptoms are getting better overall, and
+- You have not had a fever (and are not using fever-reducing medication)
+
+If you are unable to attend class, then you can still earn full credit for in-class exercises by submitting Notebooks via GitHub before the next class. Students should make plans to get a classmate’s notes for any missed class sessions. Some class sessions may be moved online based on community conditions. Dropping the two lowest quizzes and four lowest in-class exercises can also cover days missed when sick.
