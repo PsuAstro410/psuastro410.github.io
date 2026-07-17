@@ -52,7 +52,7 @@ Homework assignments will be distributed and submitted via GitHub, with assignme
 
 On submission days for homework assignments, students will be given in-class pencil and paper quizzes, where students answer coding questions, and write test pseudo code. Example quizzes with pseudo code will be given in class.
 
-Exams will be completed in-class. Students will be able to access Jupyter on the Roar Interactive Server or their personal laptops, edit python scripts with their text editors of choice, and access a single student-prepared text (.txt) study guide document. Use of any other resources (internet, AI) is forbidden, students caught taking advantage of such resources are subject to recieving no credit for submitted exams.
+**Note: details subject to change until first day of class.** Midterm and final exams will be completed in-class in separate computer labs, with room locations announced at least one week prior to exam date. Students will be able to access Jupyter and python on the Roar Interactive Server through a web browser, edit python scripts with their text editors of choice, access single student-prepared text (.txt) study guide document, and all other materials on each student's personal Roar account. Use of any other resources (on the internet or using AI) is forbidden, students caught taking advantage of such resources are subject to recieving no credit for exams.
 
 Students will also submit a final project at the end of the semester. **Details TBD**
 
