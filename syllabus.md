@@ -94,14 +94,28 @@ Other reading materials, and useful resources, include
 - [Numerical Methods for Physics with Python](https://numphyspy.org/) (Alex Gezerlis, University of Guelph)
 - [Python Cheatsheet](https://cheatsheets.quantecon.org/) (QuantEcon)
 
-Course materials may be added or removed to the syllabus and/or Canvas webpage throughout the semester
+Course materials may be added or removed to the syllabus and/or Canvas webpage throughout the semester. Students are encouraged to recommend additional resources they find useful.
 
 ## Lectures and In-Class Exercises
 
-Jupyter Notebooks with lecture materials and in-class exercises will be distributed before lecture via GitHub, so that students can interactively follow along during lecture, and test their understanding of computing concepts through exercises. Students are encouraged to follow along with the lecture materials, and complete the in-class exercises before the end of class. In-class exercises can be completed with the help of peers in groups, the instructor or TA, online materials, and ethical AI use. 
+Jupyter Notebooks with lecture materials and in-class exercises will be distributed before lecture via GitHub, so that students can interactively follow along during lecture, and test their understanding of computing concepts through exercises. Students are encouraged to follow along with the lecture materials, and complete in-class exercises before the end of class. Exercises can be completed with the help of peers, the instructor or TA, online materials, and ethical AI use. 
 
-Any un-completed exercises should be completed and submitted before the next class for full credit. All exercises are submitted by pushing to GitHub. Late exercises recieve a 10% grade deduction for every day past the deadline that they are late (if due Tuesday, recieve 90% credit for Wednesday submission, 80% for Thursday, 70% for Friday, ...). 
+Any un-completed exercises should be completed and submitted before the next class for full credit. All exercises are submitted by pushing to GitHub. Late exercises recieve a 10% grade deduction for every day past the deadline that they are late (if lecture Thursday, exercises due next Tuesday, recieve 90% credit for Wednesday submission, 80% for Thursday, 70% for Friday, ...). The lowest four in-class exercise scores will be dropped from the final grade.
 
 ## Homework Assignments
 
-Homework assignments will typically be due Tuesdays on a weekly basis 
+Homework assignments will be typically completed on a weekly basis pre-midterm, and bi-weekly post-midterm, to help students gain deeper understanding of course material. Students will directly apply numerical methods learned during lecture to real astrophysical problems, and gain appreciation for how widely different numerical techniques are used in the field. Homeworks can be completed with the help of peers and internet resources, with assistance by the instructor and TA during office hours. AI can be used to generate "example code" for analogous (but not identical) applications asked by the assignment, and assistance debugging code. Copying and pasting homework questions into AI prompts is forbidden. Any AI use to complete homeworks should be documented, with a full chat history submitted along with the homework assignment.
+
+Homeworks will typically be due Tuesdays, submitted by pushing onto GitHub. Homeworks will be directly followed by short, in-class quizzes on the same material (see next section). Late submissions will recieve score reductions of 10% for every day late. The lowest homework score will be dropped from the class grade.
+
+## In-Class Quizzes
+
+To act as an additional check-in on student understanding on course material, in-class quizzes will be given on subject matter directly related to homework questions. All quizzes will be done during the first 10 minutes of class with pencil and paper, the same day as homework submissions, typically writing pseudo-code. The lowest two quiz scores will be dropped from the course grade, meant to cover missed days and general bad vibes.
+
+## Exams
+
+One summative assessment for the course material will be two in-person exams completed in computer labs, one for the midterm on Oct. 8, and another for the final exam. Students will use lab computer browsers to connect to the Roar Collab Interactive Desktop, download exams from GitHub, complete exams written in python on Jupyter Notebooks, and submitted at the end of class by pushing exams onto GitHub. Students are allowed access to a single .txt file study guide, and all course materials on their personal Roar accounts. Any other use of browsers to view other materials, and to use generative AI, is not allowed.
+
+Make-up exams can be scheduled only in one of two special circumstances:
+1. If you know in advance that you will have to miss a midterm exam for a religious observance or university sponsored trip (e.g., athletics, research field work, class field trip), then you must request a makeup midterm in advance of the exam and as early in the semester as possible, to facilitate scheduling.
+2. If you are injured or ill or in isolation or quarantine during the midterm exam, you should request a makeup exam as soon as practical. If any of the above cases, documentation may be requested. Please email the instructor as soon as you are able to request scheduling a makeup exam. The timing and format of a makeup midterm exam will depend on the circumstances and be at the instructor's discretion. For a religious holiday, the instructor would likely recommend taking the same exam early.
