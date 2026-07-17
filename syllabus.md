@@ -68,5 +68,11 @@ Students will also submit a final project at the end of the semester. **Details 
 
 The lowest scores on 1 homework assignment, 2 quizes, and 4 in-class exercises will be dropped from the course grade.
 
-## Schedule
-...
+## Expected Student Preparation
+
+Students are expected to have taken an introductory programming course, and have foundational physics knowledge (mechanics, electricity & magnetism, fluids & thermodynamics). Although course materials will code in python, and make frequent applications to different fields of astrophysics, no prior python or astrophysics background will be assumed. Coding fundamentals in python will be covered early, and applications to astrophysics will focus on the implementation of numerical algorithms. 
+
+The formal prerequisites for this course are
+-  CMPSC 201 or CMPSC 121 or CMPSC 131 or CMPSC 204
+-  PHYS 212 and PHYS 213 and PHYS 214
+Any student who has not taken one of these courses should contact the instructor prior to submitting an enrollment override via LionPath, to discuss their background in regards to their preparation for this course.
