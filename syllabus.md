@@ -124,7 +124,9 @@ Make-up exams can be scheduled only in one of two special circumstances:
 
 ## Student Projects
 
-Another summative assessment, to allow students to demonstrate their ability to apply course concepts to an astrophysical application of their choice, will be course projects. **Details TBD**
+Another summative assessment, to allow students to demonstrate their ability to apply course concepts to an astrophysical application of their choice, will be course projects. Although project outlines, checkpoints, and write-ups will have due dates in the middle and end of the semester, students are encouraged to brainstorm project ideas early. Students interested in a honors option should contact the instructor early.
+
+During the middle and end portions of the semester, the frequency of homework assignments will decrease, replaced by deadlines related to course projects. We will discuss course project requirements more in class, see also the course project portion of the course website for more details.
 
 ## Safety
 
