@@ -1,5 +1,6 @@
-title: Astro 410
+title: Computational Astrophysics
 theme: jekyll-theme-minimal
 
-header_pages:
-  - syllabus.md
+description: "Course website, Professor J. J. Zanazzi"
+
+show_downloads: false
