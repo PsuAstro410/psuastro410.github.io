@@ -122,11 +122,11 @@ Make-up exams can be scheduled only in one of two special circumstances:
 1. If you know in advance that you will have to miss a midterm exam for a religious observance or university sponsored trip (e.g., athletics, research field work, class field trip), then you must request a makeup midterm in advance of the exam and as early in the semester as possible, to facilitate scheduling.
 2. If you are injured or ill or in isolation or quarantine during the midterm exam, you should request a makeup exam as soon as practical. If any of the above cases, documentation may be requested. Please email the instructor as soon as you are able to request scheduling a makeup exam. The timing and format of a makeup midterm exam will depend on the circumstances and be at the instructor's discretion. For a religious holiday, the instructor would likely recommend taking the same exam early.
 
-## Student Projects
+## Project
 
 Another summative assessment, to allow students to demonstrate their ability to apply course concepts to an astrophysical application of their choice, will be course projects. Although project outlines, checkpoints, and write-ups will have due dates in the middle and end of the semester, students are encouraged to brainstorm project ideas early. Students interested in a honors option should contact the instructor early.
 
-During the middle and end portions of the semester, the frequency of homework assignments will decrease, replaced by deadlines related to course projects. We will discuss course project requirements more in class, see also the course project portion of the course website for more details.
+During the middle and end portions of the semester, the frequency of homework assignments will decrease, replaced by project deadlines. We will discuss project requirements more in class, see also the project portion of the course website for more details.
 
 ## Safety
 
