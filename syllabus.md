@@ -167,4 +167,22 @@ According to [University Policy](https://policy.psu.edu/policies/ad40), students
 
 Academic integrity includes a commitment by all members of the University community not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
 
+## Lecture Adjustment due to Campus Closure, Instructor Illness, etc.
 
+In the event of any changes to the schedule (e.g., due to a campus closure or delayed start, instructor illness, etc.), any changes in class meeting times, class format (in-person or Zoom), assignment deadlines, submission procedures, exam procedures, or any other necessary instructions will be communicated via an announcement in Canvas. Students should make a habit of checking their Canvas inbox at least daily.
+
+## Code of Mutual Respect and Cooperation
+
+The Eberly College of Science [Code of Mutual Respect and Cooperation](https://science.psu.edu/diversity-equity-inclusion-belonging/code-mutual-respect-and-cooperation) embodies the values that we hope our faculty, staff, and students possess and will endorse to make The Eberly College of Science a place where every individual feels respected and valued, as well as challenged and rewarded. Please visit the link to review the 12 points that comprise this code.
+
+## Academic Support
+
+The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs. When in need of help, students can utilize various College and University wide resources for learning assistance. [https://science.psu.edu/current-students/support-network](https://science.psu.edu/current-students/support-network)
+
+## Dissability Accomidations
+
+Regardless of whether you have a documented disability, please feel free to let the instructor know if you have a suggestion for how an assignment's accessiblity could be improved.
+
+Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides [contact information](http://equity.psu.edu/sdr/disability-coordinator)  for every Penn State campus. For further information, please visit [Student Disability Resources website](http://equity.psu.edu/sdr/).
+
+In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: see [documentation guidelines](http://equity.psu.edu/sdr/guidelines). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
