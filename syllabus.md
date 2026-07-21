@@ -193,3 +193,7 @@ Many students at Penn State face personal challenges or have psychological needs
 - Counseling and Psychological Services at University Park (CAPS): [http://studentaffairs.psu.edu/counseling/](http://studentaffairs.psu.edu/counseling/), 814-863-0395
 - Penn State Crisis Line (24 hours/7 days/week): 877-229-6400
 - Crisis Text Line (24 hours/7 days/week): Text LIONS to 741741
+
+## Equity and Bias Concerns
+
+Penn State takes great pride to foster a diverse and inclusive environment for students, faculty, and staff. Acts of intolerance, discrimination, or harassment due to age, ancestry, color, disability, gender, gender identity, national origin, race, religious belief, sexual orientation, or veteran status are not tolerated and can be reported through Educational Equity via the [Report Bias webpage](http://equity.psu.edu/reportbias/).
