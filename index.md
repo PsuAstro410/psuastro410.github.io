@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+Computational Astrophysics Course, taught at Penn State by Prof. J. J. Zanazzi. Click on the links to navigate the site.
