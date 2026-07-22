@@ -8,6 +8,10 @@ Live site: https://psuastro410.github.io
 
 - `index.md` — homepage
 - `syllabus.md` — course syllabus
+- `project.md` - course project
+- `lectures.md` - Jupyter notebooks for lectures
+- `homeworks.md` - Homework exercises
+- `tips.md` - Tips for logging onto Roar, committing exercises and assignments onto GitHub, etc.
 - `_config.yml` — Jekyll/theme configuration
 
 ## License
