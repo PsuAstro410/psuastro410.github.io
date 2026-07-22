@@ -9,3 +9,6 @@ theme: minima
 header_pages:
   - syllabus.md
   - project.md
+  - lectures.md
+  - homeworks.md
+  - tips.md
