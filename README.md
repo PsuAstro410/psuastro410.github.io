@@ -11,7 +11,7 @@ Live site: https://psuastro410.github.io
 - `project.md` - course project
 - `lectures.md` - Jupyter notebooks for lectures
 - `homeworks.md` - Homework exercises
-- `tips.md` - Tips for logging onto Roar, committing exercises and assignments onto GitHub, etc.
+- `tips.md` - Tips for course logistics
 - `_config.yml` — Jekyll/theme configuration
 
 ## License
