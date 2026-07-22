@@ -17,7 +17,7 @@ permalink: /syllabus/
 
 ## Course Description
 
-Computational methods underpin almost all research methods in astronomy and astrophysics, from data analysis used in observations, to numerical simulations used in theory. The purpose of this course is not only to survey these methods, but gain a foundational appreciation for good coding practices in astrophysical research. Topics to be covered range from an introduction to scientific computing with python, to solving systems of linear equations, algorithms used in data analysis and modelling, ordinary and partial differential equation solvers, with machine learning touched upon at the end. Direct connections to astronomical disciplines will be made through the course materials.
+Computational methods underpin almost all research methods in astronomy and astrophysics, from data analysis used in observations, to numerical simulations used in theory. The purpose of this course is not only to survey these methods, but gain an appreciation for good software practices in astrophysical research. Topics to be covered range from an introduction to scientific computing with python, to solving systems of linear equations, algorithms used in data analysis and modelling, ordinary and partial differential equation solvers, with machine learning touched upon at the end. Direct connections to astronomical disciplines will be made through the course materials.
 
 ## Course Goals
 
