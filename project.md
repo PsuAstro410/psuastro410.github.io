@@ -25,9 +25,22 @@ For the first part of the project, you will give a brief pitch of the general to
 
 Pitches should include
 1. A tentative title
-2. A three-to-six sentence description of the work you are considering doing
+2. A one paragraph description (~3-6 sentences long) of the work you are considering doing
 3. Course topics that the project taps into (see syllabus for list)
 4. Names of two to three collaborators for your project
+
+## Outline
+
+Outlines will map out projects in more depth, and be approximately two pages in length of text and equations, submitted as a pdf using e.g. LaTex, Word, OpenOffice, Google Docs, etc. Your outline should include
+1. The scientific problem your work aims to address
+2. The analysis and/or calculations your work will perform
+3. Primary algorithms implemented, including ones discussed in-class
+4. Inputs and outputs
+5. At least two possible tests
+
+## First Draft
+
+
 
 ## Possible Topics
 
