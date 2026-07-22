@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Github Tips
-permalink: /tips/
+permalink: /tips/github/
 ---
