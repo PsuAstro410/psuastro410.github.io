@@ -137,3 +137,5 @@ Codes not written in python are also commonly used in astrophysics, but students
 - [MESA](https://mesastar.org/): stellar structure code
 - [FARGO3D](https://fargo3d.github.io/documentation/): Grid-based hydro mainly used for protoplanetary disks
 - [Athena++](https://www.athena-astro.app/): Grid-based hyro code with wide applicability
+
+Any projects building off pre-developed codes **must contact the instructor and TA**, so that packages can be installed on the shared course infustructure.
