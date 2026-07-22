@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roar
+title: Roar Tips
 permalink: /tips/roar/
 ---
 
