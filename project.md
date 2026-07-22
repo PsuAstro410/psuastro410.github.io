@@ -36,7 +36,7 @@ Please submit your Pitch
 Outlines will map out projects in more depth, and be approximately two pages in length of text and equations, submitted as a pdf using Overleaf. Your outline should include
 1. The scientific problem your work aims to address
 2. The analysis and/or calculations your work will perform
-3. Primary algorithms implemented, including ones discussed in-class
+3. Primary algorithms implemented, including ones discussed in-class to complete exam
 4. Inputs and outputs
 5. At least two possible tests
 
@@ -64,21 +64,33 @@ While further developing your project, you will also send comments regarding you
 
 Use the below template when submitting your strengths and weaknesses:
 ```html
+## Summary of project and draft
+In your own words, what is your collaborator trying to do?
+
 ## Strengths
-- 
+- comment 1
+- comment 2
+- etc.
 
 ## Weaknesses
-- 
+- comment 1
+- etc.
 
 ## Suggested priorities for revision
 1. 
 2. 
 
 ## Summary of Overleaf comments
-Have you also left inline comments/tracked changes in the shared Overleaf doc? [Yes/No] Could you give a summary of what issues your comments centered on?
+Have you also left inline comments/tracked changes in the shared Overleaf doc? [Yes/No]
+Could you give a summary of what issues your comments centered on?
 ```
+Good comments will typically have six or more total strengths and weaknesses. You will be graded by your understanding of your collaborator's code and project goals, as well as your judgement on the strengths and weaknesses of your collegue's work.
 
-You are also encouraged to comment
+You are also encouraged to comment on collaborator code and the Overleaf document, using the comment (GitHub) and editor (Overleaf) features.
+
+## Final Project
+
+
 
 ## Possible Topics
 
