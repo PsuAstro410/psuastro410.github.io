@@ -35,8 +35,7 @@ Once you have a Roar account,
   - Memory: 4 GB (unless otherwise asked)
   - Enable advanced Slurm options: Leave unchecked
   - I would like to receive an email when the session starts: Your choice!
-
-Note that the script and account above will be avaliable between August 24 and the end of the Fall 2026 semester.
+  Note that the script and account above will be avaliable between August 24 and the end of the Fall 2026 semester.
 3. Click `Launch`
 4. Open terminal, load modules, etc.
 5. Submit assignments
