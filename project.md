@@ -106,4 +106,34 @@ Aspects of report grade:
 
 ## Possible Topics
 
-Projects should be sustained effort, and carry out novel work on a topic related to this course. 
+Projects should be sustained effort, and carry out novel work on a topic related to this course. Unless well justfied, submitted codes should be written in python. Possible examples for course projects include (including examples from the Zingale and Davis courses):
+- Creating an ODE integrator from the examples listed [here](https://zingale.github.io/computational_astrophysics/ODEs/more-applications.html)
+- Create an interpolator for an equation of state or opacity table used in stellar structure codes
+- Implement the Barnes-Hut tree algorithm for approximating N-body gravity
+- Extend one of the homework or lecture PDEs to multiple dimensions
+- Extend the viscous protoplanetary disk evolution to include the photoevaporative, "UV switch" (e.g. Clarke+ 2001)
+- Reproduce the analysis of any astronomy paper that has publicly available data
+- Write a more general hydro code using finite volume methods
+- Write a MCMC-based data analysis toolkit
+- Write a Holman-Wiegert N-body integrator
+- Write a Monte Carlo radiation transfer code
+- Write a Lomb-Scargle Periodogram
+
+Projects can also extend existing astrophysical codes, if the extension is novel, and uses techniques and methodologies learned in the course content. If basing your project on an existing code, you still have to outline the methodology used in the utilized code. Some codes based in python, or written in C/Fortran with easy-to-use python wrappers, include
+- [emcee](https://emcee.readthedocs.io/en/stable/): MCMC fitter
+- [dynesty](https://dynesty.readthedocs.io/en/v3.1.0/): fancy MCMC fitter
+- [batman](https://lkreidberg.github.io/batman/docs/html/index.html): exoplanet transit model
+- [RadVel](https://github.com/California-Planet-Search/radvel): exoplanet radial velocity model fitter
+- [orbitize!](https://orbitize.readthedocs.io/en/latest/): direct imaging orbit fitter
+- [lightkurve](https://lightkurve.github.io/lightkurve/): Kepler/TESS analysis package
+- [MOSFiT](https://mosfit.readthedocs.io/en/latest/): Tidal disruption event lightcurve fitter
+- [Rebound](https://rebound.hanno-rein.de/) and [Reboundx](https://reboundx.readthedocs.io/en/latest/): excellent N-body integrators
+- [COSMIC](https://cosmic-popsynth.github.io/COSMIC/pages/about.html): binary population synthesis suite, focusing on compmact binaries (e.g. gravitational waves)
+- [pyro](https://python-hydro.github.io/pyro2/intro.html) (grid-based hyro solver)
+- [CAMB](https://camb.readthedocs.io/en/latest/) (Cosmic microwave background anisotropy solver)
+
+Codes not written in python are also commonly used in astrophysics, but students are cautioned from using these codes for course projects unless there is strong motivation to do so. Codes with wide-spread usage include
+- [RADMC-3D](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/): Monte-Carlo radiative transfer code
+- [MESA](https://mesastar.org/): stellar structure code
+- [FARGO3D](https://fargo3d.github.io/documentation/): Grid-based hydro mainly used for protoplanetary disks
+- [Athena++](https://www.athena-astro.app/): Grid-based hyro code with wide applicability
