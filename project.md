@@ -8,6 +8,8 @@ permalink: /project/
 
 The project for this course will allow you to gain experience developing code that might be used for astrophysical software, data analysis, simulations, etc. This project will be a sustained effort, spread over multiple weeks of the course. The total grade for the project will be sub-divided into smaller assignments, with due-dates spread accross the semester, to help everyone stay on track. Each student will hand in their own project, but you will all join a group of "collaborators," where you will all review one anothers projects, and comment on them before the final project is turned in. 
 
+**Note:** The project description may be added to or clarified throughout the course. Please check this page for the up-to-date description.
+
 ## Grade Breakdown
 
 The grade for the course project will partially go to check-ins earlier in the semester, with the rest given on the final code and write-up. Specifically,
@@ -21,8 +23,6 @@ The grade for the course project will partially go to check-ins earlier in the s
   - 10% Incooperation of collaborator feedback
   - 20% Report
 
-**Note:** The project description may be added to or clarified throughout the course. Please check this page for the current up-to-date description.
-
 ## Pitch
 
 For the first part of the project, you will give a brief pitch of the general topic you are interested in investigating, and name one to two fellow collaborators in your work. The goal is for everyone to start thinking seriously on what astrophysical topic they want to delve deeper in. After submission, I may contact individuals and/or groups, to clarify the scope and suggest revisions to proposed projects.
@@ -32,8 +32,6 @@ Pitches should be written in the course-prepared Overleaf typeset document, and 
 2. A one paragraph description (~3-6 sentences long) of the work you are considering doing
 3. Course topics that the project taps into (see syllabus for list)
 4. Names of two to three collaborators for your project
-
-Please submit your Pitch 
 
 ## Outline
 
@@ -54,8 +52,6 @@ Before submitting your final project, you will first submit a project draft for 
 5. A proposed set of ideas to try to resolve your current setbacks, additional tests to try, as well as developments you hope to see implemented upon submission of your final code and report
 
 Your collaborators will review your submission, and not only discuss their thoughts on your current progress and project plans, but also the readibility and applicability of your current code.
-
-Please submit your 
 
 ## Comments to Collaborators
 
@@ -94,10 +90,20 @@ You are also encouraged to comment on collaborator code and the Overleaf documen
 
 ## Final Repository and Report
 
-Your final grade for the project will consist of a code repository, and a report compiled using Overleaf. You will be graded on both your repository code, and your report
-- 10% Does the code work, and perform the functions outlined in the proposal?
-- 10% 
+Your final grade for the project will consist of a code repository, and a report compiled using Overleaf. You will be graded on both your repository code, and your report. The final report will not only detail the motivation and uses of the code, but also serve as code documentation.
+
+Aspects of code grade:
+- Does the code work, and perform the functions outlined in the proposal? Are there at least two tests that validate its functionality?
+- How usable is the code? Is its structure clear and easy-to-follow? Did the developer use GitHub repo well (frequent commits, etc.)?
+- How well did you incorporate collaborator feedback? What changes have you made based on collaborator feedback? What did you not take into account, and why?
+
+Aspects of report grade:
+- How well does the report tie in the relevance of the project's code? 
+- Is the methodology for the code laid out well?
+- If I follow the instructions contained within the report, can I reproduce results from the code?
+- Are the inputs and outputs of the code well described?
+
 
 ## Possible Topics
 
-Projects should be sustained effort, and carry out novel work on a topic related to this course. **Include more extensive list of topics**
+Projects should be sustained effort, and carry out novel work on a topic related to this course. 
