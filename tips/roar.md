@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Roar tips
-categories: tips
+layout: page
+title: Roar
+permalink: /tips/roar/
 ---
 
 ## Roar Portal
