@@ -11,7 +11,7 @@ The project for this course will allow you to gain experience developing code th
 ## Grade Breakdown
 
 The grade for the course project will partially go to check-ins earlier in the semester, with the rest given on the final code and write-up. Specifically,
-- 5% Pitch
+- 5%  Pitch
 - 15% Outline
 - 15% First Draft
 - 15% Comments to collaborators
@@ -40,7 +40,18 @@ Outlines will map out projects in more depth, and be approximately two pages in 
 
 ## First Draft
 
+Before submitting your final project, you will first submit a project draft for your collaborators to review. The purpose is less to delve into the detailed motivation and application of your project, and more to discuss current progress and unforseen setbacks. In addition to a roughly two page report, you should submit your current GitHub code repository, that also attempts at least one test, to verify some aspect of your project code. Your report should include
+1. A brief review (~3-6 sentences) on the purpose of your code
+2. The algorithms your code currently implements, with their inputs and outputs
+3. What your code is able to reproduce successfully
+4. Setbacks you encountered up to now, that you have or have not resolved
+5. A proposed set of ideas to try to resolve your current setbacks, additional tests to try, as well as developments you hope to see implemented upon submission of your final code and report
 
+Your collaborators will review your submission, and not only discuss their thoughts on your current progress and project plans, but also the readibility and applicability of your current code.
+
+## Comments to Collaborators
+
+While further developing your project, you will also send comments to your collaborators' first drafts (either one or two sets of comments, depending on whether your group contains a total of two or three members). 
 
 ## Possible Topics
 
