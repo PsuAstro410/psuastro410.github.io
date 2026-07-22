@@ -23,15 +23,17 @@ The grade for the course project will partially go to check-ins earlier in the s
 
 For the first part of the project, you will give a brief pitch of the general topic you are interested in investigating, and name one to two fellow collaborators in your work. The goal is for everyone to start thinking seriously on what astrophysical topic they want to delve deeper in. After submission, I may contact individuals and/or groups, to clarify the scope and suggest revisions to proposed projects.
 
-Pitches should include
+Pitches should be written in the course-prepared Overleaf typeset document, and include
 1. A tentative title
 2. A one paragraph description (~3-6 sentences long) of the work you are considering doing
 3. Course topics that the project taps into (see syllabus for list)
 4. Names of two to three collaborators for your project
 
+Please submit your Pitch 
+
 ## Outline
 
-Outlines will map out projects in more depth, and be approximately two pages in length of text and equations, submitted as a pdf using e.g. LaTex, Word, OpenOffice, Google Docs, etc. Your outline should include
+Outlines will map out projects in more depth, and be approximately two pages in length of text and equations, submitted as a pdf using Overleaf. Your outline should include
 1. The scientific problem your work aims to address
 2. The analysis and/or calculations your work will perform
 3. Primary algorithms implemented, including ones discussed in-class
@@ -49,9 +51,34 @@ Before submitting your final project, you will first submit a project draft for 
 
 Your collaborators will review your submission, and not only discuss their thoughts on your current progress and project plans, but also the readibility and applicability of your current code.
 
+Please submit your 
+
 ## Comments to Collaborators
 
-While further developing your project, you will also send comments to your collaborators' first drafts (either one or two sets of comments, depending on whether your group contains a total of two or three members). 
+While further developing your project, you will also send comments regarding your collaborators' first drafts (either one or two sets of comments, depending on whether your group contains a total of two or three members). You will be graded on "Strengths and Weaknesses" summary, submitted via GitHub Issue:
+- Go to the owner's GitHub repo, then, Issues tab, then New Issue
+- Title: Peer Review: \[Student Name\] – Draft 1
+- Using the template (see below) with sections for Strengths, Weaknesses, and Suggested Priorities
+- Tag the repo owner using @username so they're notified
+- Submit the issue
+
+Use the below template when submitting your strengths and weaknesses:
+```html
+## Strengths
+- 
+
+## Weaknesses
+- 
+
+## Suggested priorities for revision
+1. 
+2. 
+
+## Summary of Overleaf comments
+Have you also left inline comments/tracked changes in the shared Overleaf doc? [Yes/No] Could you give a summary of what issues your comments centered on?
+```
+
+You are also encouraged to comment
 
 ## Possible Topics
 
