@@ -13,7 +13,7 @@ layout: home
 - 9:05-10:20 AM, Tuesday and Thursday
 - Davey Lab 541
 - Instructor: John (J. J.) Zanazzi
-- Email: "jxz224@psu.edu"
+- Email: jxz224@psu.edu
 - Teaching Assistant: TBD
 - Email: TBD
 - Office Hours: TDB
