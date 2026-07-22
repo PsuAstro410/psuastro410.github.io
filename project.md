@@ -16,6 +16,10 @@ The grade for the course project will partially go to check-ins earlier in the s
 - 15% First Draft
 - 15% Comments to collaborators
 - 50% Final code and report
+  - 10% Code functionality
+  - 10% Code usability and readibility
+  - 10% Incooperation of collaborator feedback
+  - 20% Report
 
 **Note:** The project description may be added to or clarified throughout the course. Please check this page for the current up-to-date description.
 
@@ -88,9 +92,11 @@ Good comments will typically have six or more total strengths and weaknesses. Yo
 
 You are also encouraged to comment on collaborator code and the Overleaf document, using the comment (GitHub) and editor (Overleaf) features.
 
-## Final Project
+## Final Repository and Report
 
-
+Your final grade for the project will consist of a code repository, and a report compiled using Overleaf. You will be graded on both your repository code, and your report
+- 10% Does the code work, and perform the functions outlined in the proposal?
+- 10% 
 
 ## Possible Topics
 
