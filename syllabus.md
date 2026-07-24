@@ -128,6 +128,10 @@ Another summative assessment, to allow students to demonstrate their ability to 
 
 During the middle and end portions of the semester, the frequency of homework assignments will decrease, replaced by project deadlines. We will discuss project requirements more in class, see also the project portion of the course website for more details.
 
+## Privacy
+
+By enrolling in this course, I understand and consent to having my Access ID (username) visible to all users within the ICDS computing and storage systems for the purposes of course participation. I acknowledge that no additional personally identifiable information or educational records will be shared without my explicit written consent, in accordance with FERPA guidelines.
+
 ## Safety
 
 While attendance and participation in class is important to the class and your learning, it is more important that we all stay safe and healthy. All students must follow all health and safety protocols required or recommended by the university. University policies and recommendations may change during the semester. The most up-to-date information can be accessed at https://virusinfo.psu.edu/university-status/.
