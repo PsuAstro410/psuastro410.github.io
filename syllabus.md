@@ -14,10 +14,6 @@ permalink: /syllabus/
 - Email: jcr6048@psu.edu
 - Instructor Office Hours: 10:20-10:50 PM, Tuesday and Thursday
 - TA Office Hours: TBD
-- Email: jxz224@psu.edu (preferred) jjzanazzi54@gmail.com (personal/GitHub)
-- Teaching Assistant: TBD
-- Email: TBD
-- Office Hours: TDB
 
 
 ## Course Description
