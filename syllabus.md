@@ -9,10 +9,11 @@ permalink: /syllabus/
 - 9:05-10:20 AM, Tuesday and Thursday
 - Davey Lab 541
 - Instructor: John (J. J.) Zanazzi
-- Email: jxz224_at_psu.edu
-- Teaching Assistant: TBD
-- Email: TBD
-- Office Hours: TDB
+- Email: jxz224@psu.edu
+- Teaching Assistant: Jace Rusznak
+- Email: jcr6048@psu.edu
+- Instructor Office Hours: 10:20-10:50 PM, Tuesday and Thursday
+- TA Office Hours: TBD
 
 
 ## Course Description
