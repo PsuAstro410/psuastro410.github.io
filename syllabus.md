@@ -14,6 +14,10 @@ permalink: /syllabus/
 - Email: jcr6048@psu.edu
 - Instructor Office Hours: 10:20-10:50 PM, Tuesday and Thursday
 - TA Office Hours: TBD
+- Email: jxz224@psu.edu (preferred) jjzanazzi54@gmail.com (personal/GitHub)
+- Teaching Assistant: TBD
+- Email: TBD
+- Office Hours: TDB
 
 
 ## Course Description
@@ -128,6 +132,10 @@ Make-up exams can be scheduled only in one of two special circumstances:
 Another summative assessment, to allow students to demonstrate their ability to apply course concepts to an astrophysical application of their choice, will be course projects. Although project outlines, checkpoints, and write-ups will have due dates in the middle and end of the semester, students are encouraged to brainstorm project ideas early. Students interested in a honors option should contact the instructor early.
 
 During the middle and end portions of the semester, the frequency of homework assignments will decrease, replaced by project deadlines. We will discuss project requirements more in class, see also the project portion of the course website for more details.
+
+## Privacy
+
+By enrolling in this course, I understand and consent to having my Access ID (username) visible to all users within the ICDS computing and storage systems for the purposes of course participation. I acknowledge that no additional personally identifiable information or educational records will be shared without my explicit written consent, in accordance with FERPA guidelines.
 
 ## Safety
 
