@@ -20,7 +20,7 @@ All students should request an account on Roar Collab before the **end of the fi
 - Computational and Data Requirements: Leave blank (they already know what will be required for the class.)
 Click Submit.
 
-Students who already have an account on Roar Colab should contact Emery Etter (ece5034@psu.edu) and cc the instructor to request that they add your account to the Astro 410 group.
+Once your account is created, or if you already have an account, email the instructor J. J. Zanazzi at jxz224@psu.edu, so I can add you to the group.
 
 ## Start and Ending Roar Sessions
 
