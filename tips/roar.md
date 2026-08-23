@@ -25,7 +25,7 @@ Once your account is created, or if you already have an account, email the instr
 ## Start and Ending Roar Sessions
 
 Once you have a Roar account,
-1. Go to [portal.hpc.psu.edu](portal.hpc.psu.edu)
+1. Go to the Roar [portal](https://portal.hpc.psu.edu/)
 2. Click *Interactive Desktop: Start a desktop session*
 3. Select:
   - Account: "jxz224" (if not available, choose "open")
