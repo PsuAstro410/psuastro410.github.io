@@ -15,7 +15,9 @@ You cannot access your Roar portal until you create an account (information belo
 ## Create Roar Account
 
 All students should request an account on Roar Collab before the **end of the first day of class**. To create an account, use the link below:
+
 [https://accounts.hpc.psu.edu/users/](https://accounts.hpc.psu.edu/users/)
+
 On the account request form:
 - Affiliation: Class
 - University role: Undergraduate Student
