@@ -53,21 +53,21 @@ Initialize Git through the commands
 2. Click on RC Shell Access
 3. Create a new directory for lectures in you home directory with `mkdir lectures`
 4. Change your directory to the lectures directory with `cd lectures`
-5. Download the first lecture `lec1.ipynb` by entering. 
-`curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/lectures/lec1.ipynb`.  
-6. Clone the first lecture with a command like. 
-`git clone https://github.com/PsuAstro410/410astro26-lecture-1-<git_id>.git`
+5. Download the first lecture `lec1.ipynb` by entering
+  `curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/lectures/lec1.ipynb`.  
+6. Clone the first lecture with a command like
+  `git clone https://github.com/PsuAstro410/410astro26-lecture-1-<git_id>.git`
 7. Enter first your GitHub User ID
 8. Using the **open window with the GitHub Classic Token**, paste the Token when asked for a "password"
 
 If everything worked, check:
-1. When you enter. 
-`ls`. 
-you should have a new directory titled. 
-`410astro26-lecture-1-<your git ID>`.
-2. After entering. 
-`git config --global credential.helper`. 
-the terminal should return your User ID with an unintelligible string of letters and numbers, which is your token.
+1. When you enter
+  `ls`
+  you should have a new directory titled
+  `410astro26-lecture-1-<your git ID>`.
+2. After entering
+  `git config --global credential.helper`.
+  the terminal should return your User ID with an unintelligible string of letters and numbers, which is your token.
 
 ## Accepting and Submitting Assignments:
 Follow instructions below to accept assignments on GitHub using Classroom 50:
@@ -76,19 +76,19 @@ Follow instructions below to accept assignments on GitHub using Classroom 50:
 
 Change directory to the assignment directory, using `cd lecture`, `cd homework`, or `cd exam`, from the home directory.
 
-Note that part of the acceptance process is to enter a command like. 
+Note that part of the acceptance process is to enter a command like\
 `git clone https://github.com/PsuAstro410/410astro26-assignmenet-name.git`
 
-Download the `.ipynb` template (lecture, homework, or exam) using. 
+Download the `.ipynb` template (lecture, homework, or exam) using\
 `curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/<template_path>`
 
 Add the assignment to the git "staging area" using. 
 `git add <assignment_name>.ipynb`.
 
-Keep track of changes using. 
+Keep track of changes using\
 `git commit -m "<a description of the modification>"`
 
-When you are ready to submit the assignment, comment. 
+When you are ready to submit the assignment, comment\
 `git commit -m "submit"`
-then submit to the instructor and TA using. 
+then submit to the instructor and TA using\
 `git push`
