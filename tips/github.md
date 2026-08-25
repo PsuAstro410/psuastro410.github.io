@@ -90,6 +90,6 @@ Keep track of changes using\
 `git commit -m "<a description of the modification>"`
 
 When you are ready to submit the assignment, comment\
-`git commit -m "submit"`
+`git commit -m "submit"`\
 then submit to the instructor and TA using\
 `git push`
