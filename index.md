@@ -18,6 +18,7 @@ layout: home
 - TA Email: jcr6048@psu.edu
 - Instructor Office Hours: 10:20-10:50 PM, Tuesday and Thursday
 - TA Office Hours: Monday 2:30 - 3:30 PM
+- TA Office Hour Location: TA workroom, location TBD
 
 
 ## Course Description
