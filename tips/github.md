@@ -20,9 +20,15 @@ and we will add you to the Astro 410 organization.
 
 ## First time Classroom 50 setup
 
-This portion will consist of three steps: configure your identity+email, creating a GitHub classic token, and then loggin-in and submitting the first lecture, which will save your login information for future submissions.
+This portion will consist of four steps: accept your first assignment (lecture 1), configure your identity+email, creating a GitHub classic token, and then loggin-in and submitting the first lecture, which will save your login information for future submissions.
 
 If you encounter issues with submitting assignments in the future, try repeating the commands below.
+
+### Accepting first assignment
+
+To accept this assignment on Classroom 50 with your GitHub profile enrolled in the class, click on the link\
+[https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-1/accept](https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-1/accept)\
+and follow the steps the webpage prompts.
 
 ### Configure Git with your name and email
 
@@ -56,7 +62,7 @@ Initialize Git through the commands
 5. Download the first lecture `lec1.ipynb` by entering\
   `curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/lectures/lec1.ipynb`.  
 6. Clone the first lecture with a command like\
-  `git clone https://github.com/PsuAstro410/410astro26-lecture-1-<git_id>.git`
+  `git clone https://github.com/PsuAstro410/410astro26-lecture-1-<git_username>.git`
 7. Enter first your GitHub User ID
 8. Using the **open window with the GitHub Classic Token**, paste the Token when asked for a "password"
 
