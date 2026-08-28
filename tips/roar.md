@@ -48,3 +48,22 @@ Once you have a Roar account,
 5. Submit assignments
 6. Save changes on Jupyter server, click *File* then *Close Notebook* on open notebooks, and *File* and *Quit Server* on Jupyter server
 7. In the Roar Collab Portal, click the *My Interactive Sessions* icon (to the right of *Interactive Apps*) and click *Delete* for this session and confirm
+
+## Loading Modules to Run Jupyter Notebooks
+
+To run anything on roar, either through the RC terminal access *or* the interactive desktop, you need to load modules. Almost all course materials run using jupyter notebook, which need `Firefox` to run the internet browser, `python` to run the code, and `anaconda` and `anaconda3` to run the specific features that make Jupyter Notebooks interactive. Therefore, after opening a terminal in your Roar Collab session, you need to run the following commands *before* opening a jupyter notebook:
+
+```
+module load firefox
+module load python
+module load anaconda
+module load anaconda3
+```
+
+To open a specific jupyter notebook, say `jup_notebook.ipynb`, you run the command
+```
+jupyter notebook jup_notebook.ipynb
+```
+and the notebook should open in a firefox browser.
+
+Note that any changes need to be saved before ending your session, either by hitting `ctrl+s` when working on the notebook, or clicking the Save/Floppy Disk icon on the top toolbar. Once saved, you can end the session by hitting `ctrl+c`, typing `y` or `yes`, and hitting `Enter`.
