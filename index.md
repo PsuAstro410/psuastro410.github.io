@@ -17,7 +17,7 @@ layout: home
 - Teaching Assistant: Jace Rusznak
 - TA Email: jcr6048@psu.edu
 - Instructor Office Hours: 10:20-10:50 PM, Tuesday and Thursday
-- TA Office Hours: Monday 2:30 - 3:30 PM
+- TA Office Hours: Monday 2:30 - 3:30 PM, Friday 11:00 AM - 12:00 PM
 - TA Office Location: Davey 442
 
 
