@@ -81,19 +81,29 @@ Follow instructions below to accept assignments on GitHub using Classroom 50:
 
 [https://github.com/foundation50/classroom50/wiki/Web-Student-Guide](https://github.com/foundation50/classroom50/wiki/Web-Student-Guide)
 
-Change directory to the assignment directory, using `cd lecture`, `cd homework`, or `cd exam`, from the home directory.
+Accept links are available on Canvas, as well as this website. Click on the link to the repository, there should be a website url with a `.git` file at the end of it. Keep this open, as we will use it in a bit.
 
-Note that part of the acceptance process is to enter a command like\
-`git clone https://github.com/PsuAstro410/410astro26-assignmenet-name.git`
+Change directory to the assignment directory, using `cd lecture`, `cd homework`, or `cd exam`, from the home directory. Enter the command
+```
+git clone https://github.com/PsuAstro410/410astro26-<assignment_name>-<GitHub_user_name>.git
+```
+The clone url should also be visible on the webpage GitHub directed you to after you clicked on "take me to GitHub repository." After cloning, you should have gotten a message which read something like "You have cloned an empty repository." This is fine.
 
-Download the `.ipynb` template (lecture, homework, or exam) using\
-`curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/<template_path>`
+Download the `.ipynb` template (lecture, homework, or exam) using
+```
+curl -O https://raw.githubusercontent.com/PsuAstro410/psuastro410.github.io/main/<template_path>/<template>.ipynb
+```
+Homeworks will have `<tamplate_path>=homeworks`, and lectures will have `<template_path>=lectures`. The `<template>` is e.g. `hw1`, `lec1`, etc.
 
-Add the assignment to the git "staging area" using\
-`git add <assignment_name>.ipynb`.
+Add the assignment to the git "staging area" using
+```
+git add <assignment_name>.ipynb
+```
 
-Keep track of changes using\
-`git commit -m "<a description of the modification>"`
+Keep track of changes using
+```
+git commit -m "<a description of the modification>"
+```
 
 When you are ready to submit the assignment, comment\
 `git commit -m "submit"`\
