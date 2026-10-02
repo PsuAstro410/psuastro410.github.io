@@ -29,9 +29,12 @@ Do the following steps before the midterm exam to ensure that you are able to ac
 - Launch firefox
 - Log into your email
 - Open google drive link for folder "Astro 410 Midterm Exam Fall 2026"
-- Download `Astro410_Midterm_Exam_test.ipynb`. This file will likely be downloaded into your `Downloads folder`.
+- Download `Astro410_Midterm_Exam_test.ipynb`. This file will likely be downloaded into your `Downloads` directory.
 - Change directories to the downloads directory by typing into the terminal command line `cd Downloads`
-- Move .ipynb file into midterm directory using `mv Astro410_Midterm_Exam_test.ipynb ../midterm`
+- Move .ipynb file into midterm directory using 
+```
+mv Astro410_Midterm_Exam_test.ipynb ../midterm
+```
 - Open Midterm exam test with Jupyter Notebook or JupyterLab
 - Run Command
 - Submit assignment using usual git commands to the accepted Midterm Assignment
