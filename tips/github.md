@@ -81,7 +81,7 @@ Follow instructions below to accept assignments on GitHub using Classroom 50:
 
 [https://github.com/foundation50/classroom50/wiki/Web-Student-Guide](https://github.com/foundation50/classroom50/wiki/Web-Student-Guide)
 
-Accept links are available on Canvas, as well as this website. Click on the link to the repository, there should be a website url with a `.git` file at the end of it. Keep this open, as we will use it in a bit.
+Accept links are available on this website. Click on the link to the repository, there should be a website url with a `.git` file at the end of it. Keep this open, as we will use it in a bit.
 
 Change directory to the assignment directory, using `cd lecture`, `cd homework`, or `cd exam`, from the home directory. Enter the command
 ```
