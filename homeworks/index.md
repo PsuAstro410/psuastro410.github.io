@@ -11,7 +11,7 @@ Below are links to individual homework assignments, with their due dates.
 - [Homework 3](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/homeworks/hw3.ipynb), due Sep. 15, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/homework-3/accept)
 - [Homework 4](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/homeworks/hw4.ipynb), due Sep. 22, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/homework-4/accept)
 - [Homework 5](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/homeworks/hw5.ipynb), due Sep. 28, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/homework-5/accept)
-- [Homework 6](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/homeworks/hw6.ipynb),, due Oct. 20, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/homework-6/accept)
+- [Homework 6](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/homeworks/hw6.ipynb), due Oct. 20, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/homework-6/accept)
 
 To download homeworks on Roar Collab, open RC Terminal Access, enter your lectures directory with `cd lectures`, and enter the command:
 ```bash
