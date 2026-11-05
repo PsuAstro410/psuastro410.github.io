@@ -108,7 +108,7 @@ def burgers_upwind_nc(nx, C, tmax, init_cond, xmin=-10.0, xmax=10.0):
         for i in range(g.ilo-1, g.ihi+1):
             if g.u[i] > 0:
                 dudx = (g.u[i]-g.u[i-1])/g.dx
-            elif u[i] < 0:
+            elif g.u[i] < 0:
                 dudx = (g.u[i+1]-g.u[i])/g.dx   
             else:
                 dudx = 0.
