@@ -10,6 +10,18 @@ The project for this course will allow you to gain experience developing code th
 
 **Note:** The project description may be added to or clarified throughout the course. Please check this page for the up-to-date description.
 
+## Accepting and Submitting
+
+Read the descriptor for each portion of the project submission, then write your code in a Jupyter notebook (.ipynb) or python script (.py). Add each edited Jupyter notebook or python script with the command 'add <script_name>.py' or 'add <notebook_name>.ipynb', and commit changes in your assignment as frequently as you save your work. Once you are done, commit your finishing changes with the command 'git commit -m "submit <outline, draft, final, etc.>"', then push/submit to the instructor/TA using git push. If you push your assignment more than once, this is fine! Your most recently pushed assignment will be the one that is graded.
+
+Submit latex documents via canvas, attaching a link to your overleaf file by responding to the project submission.
+
+First and final drafts will be submitted to the same assignment on Classroom 50.
+
+
+To accept this assignment, click the link below and follow the steps:
+https://classroom50.org/PsuAstro410/410astro26/assignments/project/accept
+
 ## Grade Breakdown
 
 The grade for the course project will partially go to check-ins earlier in the semester, with the rest given on the final code and write-up. Specifically,
