@@ -243,4 +243,4 @@ def euler_fv_spherical(nx, C, tmax, init_cond, xmin=0.0, xmax=1.3):
 class Disk1DGrid:
 
     """a finite-volume grid for disk variables in cylindrical symmetry"""
-    # FILL IN CODE BELOW
+    # FILL IN CODE BELOW FOR EXERCISE 2(a)
