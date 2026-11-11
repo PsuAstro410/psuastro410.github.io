@@ -26,6 +26,7 @@ Below are links to the lecture Jupyter Notebooks, in addition to being available
 - [Lecture 19](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/lectures/lec19.ipynb), Nov. 5, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-19/accept)
 - [Lecture 20](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/lectures/lec20.ipynb), Nov. 10, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-20/accept)
 - [Lecture 21](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/lectures/lec21.ipynb), Nov. 12, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-21/accept)
+- [Lecture 22](https://github.com/PsuAstro410/psuastro410.github.io/blob/main/lectures/lec22.ipynb), Nov. 17, [accept assignment](https://classroom50.org/PsuAstro410/410astro26/assignments/lecture-22/accept)
 
 To download lectures on Roar Collab, open RC Terminal Access, enter your lectures directory with `cd lectures`, and enter the command:
 
