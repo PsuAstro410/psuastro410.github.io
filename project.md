@@ -10,6 +10,17 @@ The project for this course will allow you to gain experience developing code th
 
 **Note:** The project description may be added to or clarified throughout the course. Please check this page for the up-to-date description.
 
+## Project Structure and Contents
+
+Your projects will be submitted via the "project" assignment on GitHub/Classroom50. Within the project assignment on GitHub, each student will have their own folder on the project repository, with the contents of this folder containing all project elements (pdfs of pitch, outline, first draft, final draft, python code of first draft and final draft). Collaborator comments are submitted using GitHub issue on the main code for the project first draft. **To get full credit on the course project elements, submissions must have the requested structure**.
+
+Folders should have a name of the student submitting a given project, with a format
+```
+<first_name>_<last_name>
+```
+submitted using the usual `git add <folder_name>`, `git commit -m "made project directory"`, and `git push` commands. The main code of the project should be explicitly labeled as `main_code.ipynb` and/or `main_code.py`, with code tests explicitly labelled as `test_<number>.ipynb`, `test_<number>.py`, and/or labelled in the `main_code.ipynb` Jupyter Notebook using a markdown cell. **Code tests should include a plot of some kind for full credit**.
+
+
 ## Accepting and Submitting
 
 Read the descriptor for each portion of the project submission, then write your code in a Jupyter notebook (.ipynb) or python script (.py). Add each edited Jupyter notebook or python script with the command 'add <script_name>.py' or 'add <notebook_name>.ipynb', and commit changes in your assignment as frequently as you save your work. Once you are done, commit your finishing changes with the command 'git commit -m "submit <outline, draft, final, etc.>"', then push/submit to the instructor/TA using git push. If you push your assignment more than once, this is fine! Your most recently pushed assignment will be the one that is graded.
